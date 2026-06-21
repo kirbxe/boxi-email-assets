@@ -1,0 +1,1 @@
+# boxi-email-assets
